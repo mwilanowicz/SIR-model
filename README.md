@@ -1,7 +1,7 @@
 # Computational Methods 2 – SIR Model Project
 
 This repository presents an implementation and analysis of the SIR epidemiological model, developed as part of the Computational Methods 2 course.  
-The project was carried out in collaboration with Jan Szurczak and Szymon Kaczmarczyk.
+The project was carried out in collaboration with Jan Szurczak Szymon Kaczmarczyk and Mateusz Owczarek.
 
 ---
 
@@ -69,6 +69,7 @@ Infection occurs if susceptible agents come within a contact radius of infected 
 - Marcel Wilanowicz  
 - Jan Szurczak  
 - Szymon Kaczmarczyk
+- Mateusz Owczarek
 
 ---
 
